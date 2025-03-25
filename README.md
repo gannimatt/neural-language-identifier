@@ -30,16 +30,16 @@ The `data/` directory contains **three subdirectories**: one for each language. 
 ```
 data/
   ├── en/
-  │   ├── en1.txt
-  │   ├── en2.txt
+  │   ├── business.txt
+  │   ├── culture.txt
   │   └── ...
   ├── tr/
-  │   ├── tr1.txt
-  │   ├── tr2.txt
+  │   ├── business.txt
+  │   ├── culture.txt
   │   └── ...
   └── pl/
-      ├── pl1.txt
-      ├── pl2.txt
+      ├── business.txt
+      ├── culture.txt
       └── ...
 ```
 
